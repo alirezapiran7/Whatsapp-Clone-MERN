@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=P5VyAV4FIMA">Video Demo</a> *
+  <a href="https://youtu.be/D-MBcXk7iWE">Video Demo</a> *
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#license">License</a>
