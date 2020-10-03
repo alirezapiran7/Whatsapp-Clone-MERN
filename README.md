@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://cdn.windowsreport.com/wp-content/uploads/2018/12/whatsapp-web-not-working.png"/>
+  <img src="https://images.news18.com/ibnlive/uploads/2019/10/WhatsApp.jpg?impolicy=website&width=534&height=356"/>
   <br>
   Whatsapp Web Clone
   <br>
