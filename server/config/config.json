@@ -1,10 +1,10 @@
 {
   "development": {
-    "MONGO_URI": "mongodb+srv://saran123:saran123@cluster0.wl4h5.mongodb.net/whatsapp-clone?retryWrites=true&w=majority",
+    "MONGO_URI": "<>",
     "secret": "abc"
   },
   "production": {
-    "MONGO_URI": "mongodb+srv://saran123:saran123@cluster0.wl4h5.mongodb.net/whatsapp-clone?retryWrites=true&w=majority",
+    "MONGO_URI": "<>",
     "secret": "abc"
   }
 }
